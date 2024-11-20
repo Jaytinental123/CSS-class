@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Kanit", sans-serif;
+    letter-spacing: -0.5px;
+}
+
+
+
+
+/* .mycontainer{
+   background-color: #333;
+   width: fit-content;
+   height: auto;
+ margin: 24px 20px 20px 20px;
+   padding: 24px;
+   color: #fff;
+   
+} */
+
+/* .compound{
+    background-color: blanchedalmond;
+    width: 30%;
+    height: auto;
+    padding: 24px;
+}
+
+.joy{
+    background-color: #5e5a5a;
+    width: 30%;
+    height: auto;
+    color: #fff;
+    padding: 24px;
+}
+
+.lorem{
+    width: 30%;
+    height: auto;
+    color: rgba(0 0 0 1);
+    background-color: aliceblue;
+    padding: 1.5rem;
+    margin: 1.5rem;
+    font-size: 1rem;
+}
+
+button{
+    width: fit-content;
+    height: fit-content;
+    padding: 1.5rem;
+    margin: 1.5rem;
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.text{
+
+} */
+
+.cardcontainer{
+    width: 32%;
+    height: auto;
+    padding: 1.5rem;
+    background-color: #f8f8f8;
+    margin: 4rem auto;
+    border-radius: 0.5rem;
+}
+
+.text{
+    width: 100%;
+    height: auto;
+}
+
+.title{
+    width: fit-content;
+    height: auto;
+}
+
+.title h1{
+    font-size: 1rem;
+    color: #1b2929;
+}
+
+.subtext{
+    width: 100%;
+    height: auto;
+    font-size: 0.875rem;
+    color: #666;
+    line-height: 1.225rem;
+}
+
+.button-class{
+    width: fit-content;
+    height: auto;
+}
+
+.button-class button{
+    background-color: blueviolet;
+    color: #f8f8f8;
+    padding: 0.625rem 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    font-weight: 600;
+    cursor: pointer;
+    
+}
